@@ -1,9 +1,9 @@
 import React from 'react'
 
-const AttemptQuiz = () => {
+const Quiz = () => {
   return (
     <div>AttemptQuiz</div>
   )
 }
 
-export default AttemptQuiz
+export default Quiz
